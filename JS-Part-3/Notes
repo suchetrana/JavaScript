@@ -1,0 +1,20 @@
+Getters: Used to get or receive value.
+Setters: Used to set value;
+
+Arrays -> Object/Reference type, Collection of item.
+
+Callback function is simply a function
+that is passed as an argument to another function.
+This "outer" function then calls the callback function
+at a later point to perform a specific task.
+
+Splice()
+
+Syntax:
+array.splice(start, deleteCount, item1, item2, ...);
+
+The slice() method is a JavaScript array function that returns a shallow copy of a portion of an array into a new array object.
+
+Crucially, slice() does not modify the original array.
+It creates and returns a new one. This makes it a non-mutating (or immutable) method.
+array.slice(start, end);

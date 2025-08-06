@@ -1,0 +1,13 @@
+22 July 2025
+
+Object in JS
+1) Real world entity
+2) Collections of Key-Value pair
+
+Creation Object = {
+   key0: val0,
+   key1: val1
+}
+"{}" -> Object literal
+
+In JS functions are also Object

@@ -1,0 +1,8 @@
+JS Program execution Steps:
+1) Parsing -> {Scope Resolution }
+2) Execution
+
+Types of Scope in JS
+i) Global
+ii) Function
+iii) Block
