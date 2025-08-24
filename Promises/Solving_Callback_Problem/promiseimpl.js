@@ -46,37 +46,6 @@ p.then(function processDownload(data){
     console.log("Response is: ", value);
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Promise callback hell
 
 // p.then(
