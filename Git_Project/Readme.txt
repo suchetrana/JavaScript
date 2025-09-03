@@ -37,3 +37,9 @@ to manage version of your project.
 12. Diff between git rm and git restore
 answer: if you to want to move the whole file back to the untracked state, then we do git rm,
 if we want  changes to be moved working or staging use git restore
+
+
+13. 'git diff <commitID1> <commitID2>' -> gives difference of all file changes between 2 commits
+
+14. `git commit -m <your commit message >`-> If we want to opening a text editor like vim/nano to
+    add commit message we can use this following command.
