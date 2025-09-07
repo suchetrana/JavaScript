@@ -93,4 +93,4 @@ p.then(function fulFilled(data){
 })
 .catch(function(err){
         console.error("Error occurred:", err);
-    });
+});
